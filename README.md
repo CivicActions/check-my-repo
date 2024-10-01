@@ -1,3 +1,4 @@
+NOTE: This is a fork of the [Sauce Labs project](https://github.com/saucelabs/check-my-repo). The main branch is used for generating reports and should generally be kept in sync with upstream.
 
 # (Ͼ˳Ͽ)...check-my-repo!!!
 
