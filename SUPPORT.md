@@ -8,6 +8,5 @@ In case you need help either using, contributing or modifying check-my-repo, ple
 
 We will reply as soon as possible.
 
-Fen Labalme <fen.labalme@civicactions.com>
 OSPO Open Source Program Office <opensource@civicactions.com>
 
