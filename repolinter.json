@@ -169,7 +169,10 @@
         "type": "file-existence",
         "options": {
           "dirs": true,
-          "globsAny": ["PULL_REQUEST_TEMPLATE*", ".github/PULL_REQUEST_TEMPLATE*"]
+          "globsAny": [
+            "PULL_REQUEST_TEMPLATE*", ".github/PULL_REQUEST_TEMPLATE*",
+            "pull_request_template*", ".github/pull_request_template*"
+          ],
         }
       }
     }
