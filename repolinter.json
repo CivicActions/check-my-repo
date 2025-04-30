@@ -110,17 +110,6 @@
       },
       "policyInfo": "Binaries makes your repo heavy, slown and are hard to remove"
     },
-    "Test directory": {
-      "level": "error",
-      "rule": {
-        "type": "directory-existence",
-        "options": {
-          "globsAny": ["**/test*", "**/tests*", "**/specs", "**/__test__*", "**/__tests__*"],
-          "nocase": true
-        }
-      },
-      "policyInfo": "Tests creates a reliable repository"
-    },
     "Contributing": {
       "level": "error",
       "rule": {
