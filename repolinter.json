@@ -175,6 +175,16 @@
           ],
         }
       }
+    },
+    "Project Metadata": {
+      "level": "warning",
+      "rule": {
+        "type": "file-existence",
+        "options": {
+         "globsAny": ["code.gov", "publiccode.yml"]
+          "nocase": true
+        }
+      }
     }
   }
 }
